@@ -1,4 +1,4 @@
-# Study Assistant 👾: Your AI-Powered Study Companion 🤖🧠🇦🇮
+# EduRAGify👾:Your AI-Powered Study Companion🤖🧠🇦🇮
 
 ## Wanna try 🤖  ?  https://eduragify.streamlit.app/
 ## Inspiration ✨
